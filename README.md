@@ -27,4 +27,4 @@
 
 [Github官网](https://github.com "孙子点我")
 
-![截屏](C://Users//cui88//Desktop//123.png "点击")
+![截屏](https://i.imgs.ovh/2026/03/17/Oq3uqn.png "点击")
